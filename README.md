@@ -63,9 +63,9 @@ Once the application is running, you can access it through your web browser at `
 If you have any questions or need further assistance, feel free to reach out:
 
 - **GitHub Issues:** Open an issue if you encounter any problems.
-- **Email:** harsadh32@gmail.com
-ancaparas729@gmail.com
-harshitasankar@gmail.com
-ngocnaomi@gmail.com
+- **Email:** harsadh32@gmail.com<br />
+ancaparas729@gmail.com<br />
+harshitasankar@gmail.com<br />
+ngocnaomi@gmail.com<br />
 
 Thank you for using Scholarship Finder! We hope it helps you find the financial support you need for your education.
