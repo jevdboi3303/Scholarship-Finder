@@ -12,14 +12,13 @@ Welcome to the **Scholarship Finder** repository! This project is designed to he
 
 #### Description
 
-Scholarship Finder is a web application that allows users to search for scholarships based on various filters such as location, field of study, and eligibility criteria. The goal is to streamline the process of finding financial aid for students.
+Scholarship Finder is a web application that allows users to search for scholarships based on various filters such as Type of Scholarship, Faculty, and Gender etc. The goal is to streamline the process of finding financial aid for students.
 
 #### Features
 
 - **Search Filters:** Filter scholarships by location, field of study, and eligibility.
 - **User-Friendly Interface:** Easy-to-navigate UI for a seamless user experience.
 - **Updated Database:** Regularly updated scholarship data to ensure accuracy.
-- **Bookmark Scholarships:** Save scholarships for later reference.
 
 #### Installation
 
