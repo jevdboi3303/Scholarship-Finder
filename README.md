@@ -46,8 +46,15 @@ To run this project locally on a Windows machine, follow these steps:
     ```bash
     npm install
     ```
+5. **Install MongoDB Compass**
 
-5. **Run the application:**
+    Download and install it from the [official website](https://www.mongodb.com/products/tools/compass).
+
+6. **Import the database queries**
+
+    Import [Database Collection](https://github.com/jevdboi3303/Scholarship-Finder/blob/main/scholarship-finder.scholarships.json) into the MongoDB Compass.
+
+7. **Run the application:**
 
     ```bash
     node app.js
